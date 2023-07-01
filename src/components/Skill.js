@@ -9,6 +9,10 @@ import {
   faNode,
   faNpm,
   faBootstrap,
+  faDocker,
+  faJenkins,
+  faPython,
+
 } from "@fortawesome/free-brands-svg-icons";
 import TileIcon from "./TileIcon";
 import ScrollTop from "./ScrollTop";
@@ -78,6 +82,30 @@ const Skills = () => {
       pcolor: "black",
       key: 8,
     },
+    {
+      IconName: faDocker,
+      backgrnd: "white",
+      name: "Docker",
+      img: faDocker,
+      pcolor: "black",
+      key: 9,
+    },
+    {
+      IconName: faJenkins,
+      backgrnd: "white",
+      name: "Jenkins",
+      img: faJenkins,
+      pcolor: "black",
+      key: 10,
+    },
+    {
+      IconName: faPython,
+      backgrnd: "white",
+      name: "Python",
+      img: faPython,
+      pcolor: "black",
+      key: 11,
+    },
   ];
 
   return (
@@ -96,13 +124,6 @@ const Skills = () => {
           </div>
         ))}
       </TileHolder>
-      <OdinStyle>
-        <h3>
-      I started Freecodcamp, teamtreehouse and the <a href="https://www.techlabs.org/">TechLabs</a> Bootcamp
-          Beginning of 2020 and  then have continued studying 5-6 hours per day
-          everyday since, using weekends to create my projects.
-        </h3>
-      </OdinStyle>
       <ScrollTop />
     </SkillStyle>
   );
@@ -112,7 +133,7 @@ const SkillStyle = styled.div`
   margin: 0 auto;
   background-color: rgb(231, 248, 205);
   color: rgb(54, 54, 54);
-  display: flex;
+  ${'' /* display: flex; */}
   justify-content: space-between;
   padding: 5%;
   padding-bottom: 0;
@@ -125,7 +146,7 @@ const SkillStyle = styled.div`
 const TileHolder = styled.div`
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   @media (max-width: 900px) {
     grid-template-columns: 1fr 1fr;
