@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/anis.khan/static/css/main.2404b4e7.chunk.css",
+    "main.js": "/anis.khan/static/js/main.cf2fee13.chunk.js",
+    "main.js.map": "/anis.khan/static/js/main.cf2fee13.chunk.js.map",
+    "runtime-main.js": "/anis.khan/static/js/runtime-main.de939545.js",
+    "runtime-main.js.map": "/anis.khan/static/js/runtime-main.de939545.js.map",
+    "static/js/2.35a8b661.chunk.js": "/anis.khan/static/js/2.35a8b661.chunk.js",
+    "static/js/2.35a8b661.chunk.js.map": "/anis.khan/static/js/2.35a8b661.chunk.js.map",
+    "index.html": "/anis.khan/index.html",
+    "static/css/main.2404b4e7.chunk.css.map": "/anis.khan/static/css/main.2404b4e7.chunk.css.map",
+    "static/js/2.35a8b661.chunk.js.LICENSE.txt": "/anis.khan/static/js/2.35a8b661.chunk.js.LICENSE.txt",
+    "static/media/accuracy.44e5d829.png": "/anis.khan/static/media/accuracy.44e5d829.png",
+    "static/media/advice-app.373b7dd8.png": "/anis.khan/static/media/advice-app.373b7dd8.png",
+    "static/media/calculator.745ce45c.png": "/anis.khan/static/media/calculator.745ce45c.png",
+    "static/media/city.9556587b.png": "/anis.khan/static/media/city.9556587b.png",
+    "static/media/clock.38db02ac.png": "/anis.khan/static/media/clock.38db02ac.png",
+    "static/media/color.2b0446d5.png": "/anis.khan/static/media/color.2b0446d5.png",
+    "static/media/conf.229f7849.png": "/anis.khan/static/media/conf.229f7849.png",
+    "static/media/conversation.e224dd07.png": "/anis.khan/static/media/conversation.e224dd07.png",
+    "static/media/drumkit.622be02a.jpg": "/anis.khan/static/media/drumkit.622be02a.jpg",
+    "static/media/Header.css": "/anis.khan/static/media/header-background2 Kopie.ddfadecb.jpg",
+    "static/media/lake.986fc09e.png": "/anis.khan/static/media/lake.986fc09e.png",
+    "static/media/motivity.5ede5882.png": "/anis.khan/static/media/motivity.5ede5882.png",
+    "static/media/pressure.3e4bd6e9.png": "/anis.khan/static/media/pressure.3e4bd6e9.png",
+    "static/media/problem.c7e16503.png": "/anis.khan/static/media/problem.c7e16503.png",
+    "static/media/scoreboard.c20d20ae.png": "/anis.khan/static/media/scoreboard.c20d20ae.png",
+    "static/media/stylecomp.703406fe.png": "/anis.khan/static/media/stylecomp.703406fe.png",
+    "static/media/teamwork.03c0a688.png": "/anis.khan/static/media/teamwork.03c0a688.png",
+    "static/media/time.261dbfe9.png": "/anis.khan/static/media/time.261dbfe9.png",
+    "static/media/tindogapp.611d2e9f.jpg": "/anis.khan/static/media/tindogapp.611d2e9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de939545.js",
+    "static/js/2.35a8b661.chunk.js",
+    "static/css/main.2404b4e7.chunk.css",
+    "static/js/main.cf2fee13.chunk.js"
+  ]
+}
