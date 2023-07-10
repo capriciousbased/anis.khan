@@ -14,7 +14,7 @@ const Contact = () => {
 
       <Styled2>
         <div>
-          <h3>mdkhan@gmx.de</h3>
+          <h3>mdanisulhoquekhan@gmail.com</h3>
           <FontAwesomeIcon size="4x" icon={faEnvelope} />
         </div>
       </Styled2>
@@ -26,11 +26,11 @@ const Contact = () => {
       </Styled3>
       <Styled4>
         <h3>
-          Please see my{" "}
-          <a href="https://drive.google.com/file/d/18TBC1NVB71ZQMeb0eG7DIgFou5_QFaQP/view?usp=sharing">
+          Please see my {" "}
+          <a href="https://drive.google.com/file/d/1LHqadx42CVhjO6vA2EOclPJ4EvTjQIOX/view?usp=sharing">
             {" "}
-            RESUME{" "}
-          </a>{" "}
+            RESUME {" "}
+          </a> {" "}
           for further contact details.
         </h3>
       </Styled4>
@@ -187,7 +187,7 @@ const Styled4 = styled.div`
     width: 50%;
     height: 100%;
     background-color: black;
-    color: rgb(231, 248, 205);
+    color: white;
     margin-left: 25%;
     display: flex;
     align-items: center;
@@ -203,5 +203,11 @@ const Styled4 = styled.div`
       margin-left: 0%;
       animation: none;
     }
+  }
+  a:link {
+    background-color: white;
+    color: green ;
+    text-decoration: none;
+    margin: 5px;
   }
 `;
